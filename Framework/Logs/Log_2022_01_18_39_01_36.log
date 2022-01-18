@@ -1,0 +1,22 @@
+2022-01-18 13:39:43,602  INFO [main] runnerClass:14 - URL Opened
+2022-01-18 13:39:44,132  INFO [main] runnerClass:14 - Page opend with title Book Outstation Cabs, Local & Airport Taxi Service - India's Leading Car Rentals
+2022-01-18 13:39:44,824  INFO [main] runnerClass:14 - From Bar is clicked in page Home Page
+2022-01-18 13:39:45,195  INFO [main] runnerClass:14 - From Bar is send in page Home Page
+2022-01-18 13:39:45,811  INFO [main] runnerClass:14 - From Bar is clicked in page Home Page
+2022-01-18 13:39:46,229  INFO [main] runnerClass:14 - From Bar is send in page Home Page
+2022-01-18 13:39:51,634 ERROR [main] runnerClass:21 - From Bar is not able clicked in page Home Page
+2022-01-18 13:39:52,346  INFO [main] runnerClass:14 - Round Trip Button is clicked in page Home Page
+2022-01-18 13:39:52,913  INFO [main] runnerClass:14 - From Bar is clicked in page Home Page
+2022-01-18 13:39:54,520  INFO [main] runnerClass:14 - Local Button is clicked in page Home Page
+2022-01-18 13:39:55,096  INFO [main] runnerClass:14 - clear Button is clicked in page Local Page
+2022-01-18 13:39:55,685  INFO [main] runnerClass:14 - From Button is clicked in page Local Page
+2022-01-18 13:39:56,083  INFO [main] runnerClass:14 - password field is send in page Account Log in
+2022-01-18 13:39:56,652  INFO [main] runnerClass:14 - Search Button is clicked in page Local Page
+2022-01-18 13:39:57,971 ERROR [main] runnerClass:21 - logged in failed
+2022-01-18 13:39:58,554  INFO [main] runnerClass:14 - Airport Button is clicked in page Local Page
+2022-01-18 13:39:58,877 ERROR [main] runnerClass:21 - From Bar is not able clicked in page Airport Page
+2022-01-18 13:39:59,460  INFO [main] runnerClass:14 - Corporate Button is clicked in page Home Page
+2022-01-18 13:40:01,904  INFO [main] runnerClass:14 - Facebook icon is clicked in page Home Page
+2022-01-18 13:40:04,389  INFO [main] runnerClass:14 - play store downlad app is clicked in page Home Page
+2022-01-18 13:40:12,598 ERROR [main] runnerClass:21 - Page not opened with title Savaari-Outstation Car Rental & Airport Taxi App- Apps on Google Play
+2022-01-18 13:40:12,855 ERROR [main] runnerClass:21 - Profile Icon is not able clicked in page Home Page

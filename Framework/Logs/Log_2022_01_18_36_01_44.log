@@ -1,0 +1,23 @@
+2022-01-18 13:36:53,212  INFO [main] runnerClass:14 - URL Opened
+2022-01-18 13:36:53,772  INFO [main] runnerClass:14 - Page opend with title Book Outstation Cabs, Local & Airport Taxi Service - India's Leading Car Rentals
+2022-01-18 13:36:54,427  INFO [main] runnerClass:14 - Sign In Button is clicked in page Home Page
+2022-01-18 13:36:59,778  INFO [main] runnerClass:14 - Email field is send in page Account Log in
+2022-01-18 13:37:00,020 ERROR [main] runnerClass:21 - password field can't send in page Account Log in
+2022-01-18 13:37:00,537  INFO [main] runnerClass:14 - From Bar is clicked in page Home Page
+2022-01-18 13:37:00,858  INFO [main] runnerClass:14 - From Bar is send in page Home Page
+2022-01-18 13:37:01,363  INFO [main] runnerClass:14 - From Bar is clicked in page Home Page
+2022-01-18 13:37:01,656  INFO [main] runnerClass:14 - From Bar is send in page Home Page
+2022-01-18 13:37:06,916 ERROR [main] runnerClass:21 - From Bar is not able clicked in page Home Page
+2022-01-18 13:37:07,422  INFO [main] runnerClass:14 - Round Trip Button is clicked in page Home Page
+2022-01-18 13:37:07,907  INFO [main] runnerClass:14 - From Bar is clicked in page Home Page
+2022-01-18 13:37:09,425  INFO [main] runnerClass:14 - Local Button is clicked in page Home Page
+2022-01-18 13:37:09,632 ERROR [main] runnerClass:21 - clear Button is not able clicked in page Local Page
+2022-01-18 13:37:09,833 ERROR [main] runnerClass:21 - logged in failed
+2022-01-18 13:37:10,386  INFO [main] runnerClass:14 - Airport Button is clicked in page Local Page
+2022-01-18 13:37:10,610 ERROR [main] runnerClass:21 - From Bar is not able clicked in page Airport Page
+2022-01-18 13:37:11,131  INFO [main] runnerClass:14 - Corporate Button is clicked in page Home Page
+2022-01-18 13:37:13,568  INFO [main] runnerClass:14 - Facebook icon is clicked in page Home Page
+2022-01-18 13:37:16,016  INFO [main] runnerClass:14 - play store downlad app is clicked in page Home Page
+2022-01-18 13:37:23,523  INFO [main] runnerClass:14 - Profile Icon is clicked in page Home Page
+2022-01-18 13:37:23,995  INFO [main] runnerClass:14 - signout Button is clicked in page Home Page
+2022-01-18 13:37:26,207  INFO [main] runnerClass:14 - Successfully verified

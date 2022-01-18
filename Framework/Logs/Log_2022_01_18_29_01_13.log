@@ -1,0 +1,21 @@
+2022-01-18 13:29:28,091  INFO [main] runnerClass:14 - URL Opened
+2022-01-18 13:29:28,697  INFO [main] runnerClass:14 - Page opend with title Book Outstation Cabs, Local & Airport Taxi Service - India's Leading Car Rentals
+2022-01-18 13:29:29,387  INFO [main] runnerClass:14 - Sign In Button is clicked in page Home Page
+2022-01-18 13:29:34,763  INFO [main] runnerClass:14 - Email field is send in page Account Log in
+2022-01-18 13:29:35,027 ERROR [main] runnerClass:21 - password field can't send in page Account Log in
+2022-01-18 13:29:35,857  INFO [main] runnerClass:14 - From Bar is clicked in page Home Page
+2022-01-18 13:29:36,198  INFO [main] runnerClass:14 - From Bar is send in page Home Page
+2022-01-18 13:29:36,720  INFO [main] runnerClass:14 - From Bar is clicked in page Home Page
+2022-01-18 13:29:37,042  INFO [main] runnerClass:14 - From Bar is send in page Home Page
+2022-01-18 13:29:42,341 ERROR [main] runnerClass:21 - From Bar is not able clicked in page Home Page
+2022-01-18 13:29:43,380  INFO [main] runnerClass:14 - Round Trip Button is clicked in page Home Page
+2022-01-18 13:29:43,922  INFO [main] runnerClass:14 - From Bar is clicked in page Home Page
+2022-01-18 13:29:49,677  INFO [main] runnerClass:14 - Local Button is clicked in page Home Page
+2022-01-18 13:29:54,110 ERROR [main] runnerClass:21 - clear Button is not able clicked in page Local Page
+2022-01-18 13:29:56,922 ERROR [main] runnerClass:21 - logged in failed
+2022-01-18 13:29:58,512  INFO [main] runnerClass:14 - Airport Button is clicked in page Local Page
+2022-01-18 13:29:58,857 ERROR [main] runnerClass:21 - From Bar is not able clicked in page Airport Page
+2022-01-18 13:29:59,026 ERROR [main] runnerClass:21 - Corporate Button is not able clicked in page Home Page
+2022-01-18 13:29:59,074 ERROR [main] runnerClass:21 - Facebook icon is not able clicked in page Home Page
+2022-01-18 13:29:59,139 ERROR [main] runnerClass:21 - play store downlad app is not able clicked in page Home Page
+2022-01-18 13:29:59,201 ERROR [main] runnerClass:21 - Profile Icon is not able clicked in page Home Page
